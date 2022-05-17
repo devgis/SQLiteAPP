@@ -1,0 +1,13 @@
+D:\Work\2016\NetAPP\aa\aa\bin\Debug\aa.exe
+D:\Work\2016\NetAPP\aa\aa\bin\Debug\aa.pdb
+D:\Work\2016\NetAPP\aa\aa\bin\Debug\System.Data.SQLite.dll
+D:\Work\2016\NetAPP\aa\aa\obj\x86\Debug\aa.Properties.Resources.resources
+D:\Work\2016\NetAPP\aa\aa\obj\x86\Debug\aa.csproj.GenerateResource.Cache
+D:\Work\2016\NetAPP\aa\aa\obj\x86\Debug\aa.exe
+D:\Work\2016\NetAPP\aa\aa\obj\x86\Debug\aa.pdb
+D:\Work\2016\NetAPP\aa\aa\obj\x86\Debug\aa.Main.resources
+D:\Work\2016\NetAPP\aa\aa\obj\x86\Debug\aa.SetForm.resources
+D:\Work\2016\NetAPP\aa\aa\obj\x86\Debug\aa.AddAndEdit.resources
+D:\Work\2016\NetAPP\aa\release\aa.exe
+D:\Work\2016\NetAPP\aa\release\aa.pdb
+D:\Work\2016\NetAPP\aa\release\aa.exe.config
